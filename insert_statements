@@ -1,0 +1,12 @@
+/*
+-- Query: SELECT * FROM ladybug_main.employees
+LIMIT 0, 1000
+
+-- Date: 2020-01-14 23:58
+*/
+INSERT INTO `` (`emp_id`,`emp_name`,`emp_email`,`emp_password`,`emp_role`,`emp_username`,`mgr_id`) VALUES ('ABC111','Akash Soni','asoni7667@gmail.com','Qwerty@007','admin','aku',NULL);
+INSERT INTO `` (`emp_id`,`emp_name`,`emp_email`,`emp_password`,`emp_role`,`emp_username`,`mgr_id`) VALUES ('ABC222','Pankaj Sakhare','pankajsakhare91@gmail.com','Zxcvb@0019','manager','panku','ABC111');
+INSERT INTO `` (`emp_id`,`emp_name`,`emp_email`,`emp_password`,`emp_role`,`emp_username`,`mgr_id`) VALUES ('ABC333','Bhanu Chandra','bhanuchandar7528@gmail.com','Qwerty@008','devtest','bhanu','ABC222');
+INSERT INTO `` (`emp_id`,`emp_name`,`emp_email`,`emp_password`,`emp_role`,`emp_username`,`mgr_id`) VALUES ('ABC444','Vishal Wasekar','vwasekar22@gmail.com','Qwerty@007','devtest','vish','ABC222');
+INSERT INTO `` (`emp_id`,`emp_name`,`emp_email`,`emp_password`,`emp_role`,`emp_username`,`mgr_id`) VALUES ('ABC555','Krishna Kumar Tripathi','kktiwari007@gmail.com','Lolly@0111','devtest','kk','ABC222');
+INSERT INTO `` (`emp_id`,`emp_name`,`emp_email`,`emp_password`,`emp_role`,`emp_username`,`mgr_id`) VALUES ('ABC666','Buland Khan','buland.cdac@gmail.com','bbbcdac#21','devtest','bk','ABC222');
