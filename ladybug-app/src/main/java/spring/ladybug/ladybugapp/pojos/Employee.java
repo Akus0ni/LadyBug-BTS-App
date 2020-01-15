@@ -105,10 +105,9 @@ public class Employee {
 
 
 	public void setManager(Employee manager) {
-		this.manager = manager;
+		this.manager = manager;	
 	}
-
-
+	
 //	@OneToMany(mappedBy = "manager")
 //	public Set<Employee> getSubordinates() {
 //		return subordinates;
